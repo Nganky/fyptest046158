@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> FreWork </title>
+    <title>FreWork</title>
   </head>
   <body>
     <h1>Testing</h1>
